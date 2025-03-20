@@ -1,0 +1,56 @@
+title: Adugna Gizaw
+email: gizawadugna@gmail.com
+description: >-
+  IT Manager | Data Science & Project Management Enthusiast | Developer of Edunova ERP
+  Passionate about technology, education, and open-source projects.
+baseurl: ""
+url: "https://addex12.github.io"
+github_username: addex12
+
+# Theme
+theme: minima
+
+# Social Links
+twitter_username: elegencteict1
+linkedin_username: eleganceict
+github_username: addex12
+
+# Build Settings
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-paginate
+
+# SEO & Analytics
+google_analytics: UA-XXXXXXXXX-X
+
+# Author Info
+author:
+  name: "Adugna Gizaw"
+  email: "gizawadugna@gmail.com"
+  bio: "IT Manager, Data Science & Project Management Enthusiast. Passionate about AI, EdTech, and Open Source."
+  avatar: "/assets/profile.jpg"
+  twitter: "eleganceict1"
+  github: "addex12"
+  linkedin: "eleganceict"
+
+# Minima Theme Settings
+minima:
+  skin: auto
+  social_links:
+    twitter: eleganceict1
+    github: addex12
+    linkedin: eleganceict
+  date_format: "%b %-d, %Y"
+
+# Pagination
+paginate: 5
+paginate_path: "/page:num/"
+
+# Include & Exclude
+include:
+  - _pages
+exclude:
+  - Gemfile
+  - Gemfile.lock
