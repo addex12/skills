@@ -15,7 +15,6 @@ Welcome to my personal GitHub Pages site! Here, I share my projects, insights, a
 - **Skills**: Python, Jekyll, Machine Learning, Web Development, ERP Systems
 - **Projects**:
   - [Edunova ERP](https://github.com/addex12/edunova-erp) – A full-featured school ERP system
-  - [Mela AI](https://github.com/addex12/mela-ai) – AI-powered learning platform
   - [Afaan Oromo Translation Model](https://github.com/addex12/afaan-oromo-ai) – Open-source NLP project
 
 ### 📂 My GitHub Repositories
